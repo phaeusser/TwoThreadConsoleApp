@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoThreadConsoleApp", "TwoThreadConsoleApp\TwoThreadConsoleApp.csproj", "{112EB8C4-4DC9-4B3A-A351-1883E98F949F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{01469991-70DD-4284-8B31-CC5493E114B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{112EB8C4-4DC9-4B3A-A351-1883E98F949F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112EB8C4-4DC9-4B3A-A351-1883E98F949F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112EB8C4-4DC9-4B3A-A351-1883E98F949F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112EB8C4-4DC9-4B3A-A351-1883E98F949F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64D4CAE9-EFF8-48D6-BEE4-4C8EDAB55954}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
